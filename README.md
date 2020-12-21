@@ -15,7 +15,7 @@ Hi, I'm [Sai Teja Gudala!](https://somesh526.github.io/someshportfolio.github.io
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **frontend development**
 - 📫 Reach me: [@saiteja9649](https://www.linkedin.com/in/sai-teja-gudala-a8538516a/)
-- 📝[Resume](https://drive.google.com/drive/folders/1CXhDj7h0LOm5KWKM1vPerT8GtsMR8PdS?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1gpmoEjAmVoXV1j4oz_Nju2YOlMVY7ltF/view?usp=sharing)
 - ⚡️ Fun fact: I'm a huge fan of Naruto
 
 **Languages and Tools:**  
