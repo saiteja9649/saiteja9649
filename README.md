@@ -11,12 +11,11 @@ Hi, I'm [Sai Teja Gudala!](https://saiteja9649.github.io/), a passionate develop
 **BIO**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`
+- ⚙️ I work in java and python
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **frontend development**
+- 💬 Ping me about **Machine learning**
 - 📫 Reach me: [@saiteja9649](https://www.linkedin.com/in/sai-teja-gudala-a8538516a/)
 - 📝[Resume](https://drive.google.com/file/d/1gpmoEjAmVoXV1j4oz_Nju2YOlMVY7ltF/view?usp=sharing)
-- ⚡️ Fun fact: I'm a huge fan of Naruto
 
 **Languages and Tools:**  
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"></code>
