@@ -17,7 +17,8 @@ Having Knowledge in areas of Machine Learning, Robotics and Artifical Intelligen
 - Dream to build a Humanoid.
   
 **Coding Profiles:**  
-- [@hackerank](https://www.hackerrank.com/Saiteja9649)
+- [@HackeRank](https://www.hackerrank.com/Saiteja9649)
+- [@CodeChef](https://www.codechef.com/users/saiteja9649)  
   <br></br>
   
 **Languages and Tools:**  
