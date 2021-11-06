@@ -1,18 +1,20 @@
 <p align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 <br />
 
-Hi, I'm [Sai Teja Gudala!](https://saiteja9649.github.io/), a passionate developer having Knowledge in areas of Machinelearning, Robotics and Artifical Intelligence.
+Hi, I'm [Sai Teja Gudala!](https://saiteja9649.github.io/), A Passionate Developer and  a ML Enthusiast. 
+Having Knowledge in areas of Machine Learning, Robotics and Artifical Intelligence.
 
   <img align="right" alt="GIF" src="https://github.com/saiteja9649/saiteja9649/blob/main/67017-code-animation.gif" width="430" height="450" />
   
 **BIO**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink: 
-- ⚙️ I work in java and python & BTC Trader
+- ⚙️ I work in java and python.
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Machine learning**
 - 📫 Reach me: [@saiteja9649](https://www.linkedin.com/in/sai-teja-gudala-a8538516a/)
 - 📝[Resume](https://drive.google.com/file/d/1gpmoEjAmVoXV1j4oz_Nju2YOlMVY7ltF/view?usp=sharing)
+- Dream to build a Humanoid.
 
 **Languages and Tools:**  
  <p>
