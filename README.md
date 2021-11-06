@@ -1,7 +1,4 @@
 <p align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
-<div align="center" width="50">
- <img src="" alt="Welcome!" width="300"/>
- </div>
 <br />
 
 Hi, I'm [Sai Teja Gudala!](https://saiteja9649.github.io/), a passionate developer having experience in FrontEnd Web Development and want to become a Full Stack Developer.
@@ -18,17 +15,40 @@ Hi, I'm [Sai Teja Gudala!](https://saiteja9649.github.io/), a passionate develop
 - 📝[Resume](https://drive.google.com/file/d/1gpmoEjAmVoXV1j4oz_Nju2YOlMVY7ltF/view?usp=sharing)
 
 **Languages and Tools:**  
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://devicon.dev/devicon.git/icons/php/php-original.svg"></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>
-<code><img height="25" src="https://devicon.dev/devicon.git/icons/java/java-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+ <p>
+<img src="https://img.shields.io/badge/Python-4B8BBE?logo=python&logoColor=FFE873&style-the-badge" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-E34F26?logo=java&logoColor=white&style-the-badge" alt="Java"/>
+<img src="https://img.shields.io/badge/php-8993be?logo=php&logoColor=white&style-the-badge" alt="php"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style-the-badge" alt="html"  />
+  
+<img src="https://img.shields.io/badge/CSS-ffcccc?logo=css3&logoColor=white&style-the-badge" alt="css"  />
 
+<img src="https://img.shields.io/badge/BootStrap-003b5f?logo=bootstrap&logoColor=white&style-the-badge" alt="boot"  />
+
+<img src="https://img.shields.io/badge/Mysql-303030?logo=mysql&logoColor=white&style-the-badge" alt="Mysql"/>
+
+<img src="https://img.shields.io/badge/Git-DC3E15?logo=git&logoColor=white&style-the-badge" alt="git"/>
+ </p>
+
+**Libraries:**
+<p>
+<img src="https://img.shields.io/badge/Numpy-white?logo=numpy&logoColor=306998&style-the-badge" alt="Numpy"/>
+<img src="https://img.shields.io/badge/OpenCV-grey?logo=opencv" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/TensorFlow-white?logo=tensorflow" alt="TensorFlow"/>  
+<img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="pytorch"/>
+<img src="https://img.shields.io/badge/Keras-E34F26?logo=keras" alt="keras"/>
+<img src="https://img.shields.io/badge/Pandas-3e344c?logo=pandas" alt="Pandas"/>
+</p>
+
+**Controllers:**
+<p>
+<img src="https://img.shields.io/badge/RaspberryPi-black?logo=raspberrypi&logoColor=bc1142&style-the-badge" alt="raspberrypi"/>  
+<img src="https://img.shields.io/badge/Arduino-black?logo=arduino" alt="arduino"/>
+</p>
 📈 My GitHub Stats
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saiteja9649&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="saiteja" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saiteja9649&show_icons=true&theme=gotham&bg_color=0,000000,010002" alt="saiteja" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja9649&theme=gotham" alt="Github Streak Stats">
+ <img src="https://activity-graph.herokuapp.com/graph?username=saiteja9649&theme=react-dark&color=45EBA5&line=C0C0C0&point=0">
+
