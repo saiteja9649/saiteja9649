@@ -3,7 +3,7 @@
 
 Hi, I'm [Sai Teja Gudala!](https://saiteja9649.github.io/), a passionate developer having experience in FrontEnd Web Development and want to become a Full Stack Developer.
 
-  <img align="right" alt="GIF" src="https://github.com/saiteja9649/saiteja9649/blob/main/67017-code-animation.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/saiteja9649/saiteja9649/blob/main/67017-code-animation.gif" width="430" height="450" />
   
 **BIO**
 
