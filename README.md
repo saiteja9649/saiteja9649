@@ -1,14 +1,14 @@
 <p align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 <br />
 
-Hi, I'm [Sai Teja Gudala!](https://saiteja9649.github.io/), a passionate developer having experience in FrontEnd Web Development and want to become a Full Stack Developer.
+Hi, I'm [Sai Teja Gudala!](https://saiteja9649.github.io/), a passionate developer having Knowledge in areas of Machinelearning, Robotics and Artifical Intelligence.
 
   <img align="right" alt="GIF" src="https://github.com/saiteja9649/saiteja9649/blob/main/67017-code-animation.gif" width="430" height="450" />
   
 **BIO**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:
-- ⚙️ I work in java and python
+- 👨🏽‍💻 I’m currently working on something cool :wink: 
+- ⚙️ I work in java and python & BTC Trader
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Machine learning**
 - 📫 Reach me: [@saiteja9649](https://www.linkedin.com/in/sai-teja-gudala-a8538516a/)
