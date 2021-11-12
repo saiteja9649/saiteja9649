@@ -13,7 +13,7 @@ Having Knowledge in areas of Machine Learning, Robotics and Artifical Intelligen
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Machine learning**
 - 📫 Reach me: [@saiteja9649](https://www.linkedin.com/in/sai-teja-gudala-a8538516a/)
-- 📝[Resume](https://drive.google.com/file/d/1gpmoEjAmVoXV1j4oz_Nju2YOlMVY7ltF/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1PP94hGvbbKuWgjBPuibw-1g-S5dySVLs/view?usp=sharing)
 - Dream to build a Humanoid.
   
 **Coding Profiles:**  
