@@ -7,15 +7,23 @@ Having Knowledge in areas of Machine Learning, Robotics and Artifical Intelligen
   <img align="right" alt="GIF" src="https://github.com/saiteja9649/saiteja9649/blob/main/67017-code-animation.gif" width="430" height="450" />
   
 **BIO**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink: 
-- ⚙️ I work in java and python.
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **Machine learning**
-- 📫 Reach me: [@saiteja9649](https://www.linkedin.com/in/sai-teja-gudala-a8538516a/)
+- 🚀 Crafting scalable data pipelines in Python to process and analyze large datasets.
+- 💻 Automating data workflows and deployment processes using DevOps practices.
+- 🌐 Integrating and optimizing cloud-based data storage and processing solutions.
+- 🧰 Utilizing containerization technologies such as Docker and orchestration tools like Kubernetes for scalable deployments.
+- 📈 Collaborating with cross-functional teams, including software engineers, to understand business requirements and integrate analytics solutions seamlessly into production systems.
+- 📉 Conducting data quality assessments and implementing data cleansing techniques to ensure accuracy.
+- 📊 Building interactive data visualizations using tools like Tableau, Power BI.
+- 📫 Connect with me at @saiteja9649 to collaborate on data-driven projects.
 - 📝[Resume](https://drive.google.com/file/d/1PP94hGvbbKuWgjBPuibw-1g-S5dySVLs/view?usp=sharing)
-- Dream to build a Humanoid.
-  
+
+**Tech enthusiast seeking like-minded souls to geek out with**
+- 🚗 Fascinated by the innovation in self-driving car technology.
+- 💡 Passionate about exploring the realms of machine learning.
+- 🤖 Dreaming of contributing to the advancement of robotics.
+- 💬 Let's discuss the latest developments in machine learning algorithms and their applications, the advancements in robotics, and the impact of self-driving cars on technology.
+
+
 **Coding Profiles:**  
 - [@HackeRank](https://www.hackerrank.com/Saiteja9649)
 - [@CodeChef](https://www.codechef.com/users/saiteja9649)  
