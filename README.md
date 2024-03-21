@@ -70,3 +70,7 @@ Hi, I'm [Sai Teja Gudala!](https://saiteja9649.github.io/), a motivates and driv
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja9649&theme=gotham" alt="Github Streak Stats">
  <img src="https://activity-graph.herokuapp.com/graph?username=saiteja9649&theme=react-dark&color=45EBA5&line=C0C0C0&point=0">
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=saiteja9649&theme=rogue&custom_title=My%20Activity%20Graph&hide_border=true&line=FF6F61&bg=000000&color=FF6F61&point=FF6F61&area=true" alt="Activity Graph" />
+</p>
+
