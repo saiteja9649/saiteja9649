@@ -3,7 +3,7 @@
 
 Hi, I'm [Sai Teja Gudala!](https://saiteja9649.github.io/), a motivates and driven developer with a passion for machine learning. I specialize in bridging the realms of data engineering and analysis, exploring the intersections of robotics, artificial intelligence, and beyond.
 
-  <img align="right" alt="GIF" src="https://github.com/saiteja9649/saiteja9649/blob/main/MLOps.gif" width="430" height="450" />
+  <img align="center" alt="GIF" src="https://github.com/saiteja9649/saiteja9649/blob/main/MLOps.gif" width="430" height="450" />
   
 **BIO**
 - 🚀 Crafting scalable data pipelines in Python to process and analyze large datasets.
