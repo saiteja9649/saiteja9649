@@ -48,6 +48,8 @@ Hi, I'm [Sai Teja Gudala!](https://saiteja9649.github.io/), a motivates and driv
 
 **Libraries:**
 <p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=white&style=flat" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat" alt="Tableau"/>
 <img src="https://img.shields.io/badge/Numpy-white?logo=numpy&logoColor=306998&style-the-badge" alt="Numpy"/>
 <img src="https://img.shields.io/badge/OpenCV-grey?logo=opencv" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/TensorFlow-white?logo=tensorflow" alt="TensorFlow"/>  
