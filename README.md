@@ -1,8 +1,7 @@
 <p align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 <br />
 
-Hi, I'm [Sai Teja Gudala!](https://saiteja9649.github.io/), A Passionate Developer and  a ML Enthusiast. 
-Having Knowledge in areas of Machine Learning, Robotics and Artifical Intelligence.
+Hi, I'm [Sai Teja Gudala!](https://saiteja9649.github.io/), a driven developer with a passion for machine learning. I specialize in bridging the realms of data engineering and analysis, exploring the intersections of robotics, artificial intelligence, and beyond.
 
   <img align="right" alt="GIF" src="https://github.com/saiteja9649/saiteja9649/blob/main/67017-code-animation.gif" width="430" height="450" />
   
